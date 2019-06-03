@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Room_Test_CRUD</string>
+    <string-array name="skills">
+        <item>Web</item>
+        <item>Mobile</item>
+        <item>Back End</item>
+        <item>Full Stack</item>
+    </string-array>
+</resources>
